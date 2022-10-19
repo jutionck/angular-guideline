@@ -404,10 +404,12 @@ Di atas juga terdapat pengaturan dimana letak `output path`, `tsconfig`, `assets
 
 Beberapa bagian penting dalam folder `src` terdapat beberapa sub folder diantaranya `assets` untuk penyimpanan file-file yang dibutuhkan misalnya gambar, `environment` konfigurasi project env (akan di bahas kemudian).
 
-Kemudian ada folder `app`. Pada folder ini semua component akan tersimpan disini termasuk service (akan di bahas lebih lanjut pada topik yang bersangkutan)
+Kemudian ada folder `app`. Pada folder ini semua component akan tersimpan disini termasuk service (akan di bahas lebih lanjut pada topik yang bersangkutan).
 
 ---
 
-Dibuat oleh:
+[Kembali](https://github.com/jutionck/angular-guideline/blob/master/README.md) | [Berikutnya](https://github.com/jutionck/angular-guideline/blob/2-angular-component/README.md)
 
-- Jution Candra Kirana
+> Dibuat oleh:
+>
+> Jution Candra Kirana
