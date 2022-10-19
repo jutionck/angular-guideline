@@ -2394,6 +2394,8 @@ Saat Anda membuat komponen, komponen tersebut terkait langsung dengan satu tampi
 
 ---
 
-Dibuat oleh:
+[Kembali](https://github.com/jutionck/angular-guideline/blob/2-angular-component/README.md) | Berikutnya
 
-- Jution Candra Kirana
+> Dibuat oleh:
+>
+> Jution Candra Kirana
